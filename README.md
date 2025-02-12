@@ -39,17 +39,3 @@ This project implements a **secure electronic voting system** using **Django** a
 - **Requests (2.24.0)** - Handles API calls for external services.
 
 ---
-
-## 🔧 Installation & Setup
-
-### **Clone the Repository**
-1️⃣ git clone [https://github.com/your-username/secure-e-voting.git cd secure-e-voting](https://github.com/Sandeep3899/Secure-Electronic-Voting-Systems-Enhancing-Integrity-And-Privacy-Through-Advanced-Cryptography.git)
-2️⃣ python -m venv env
-source env/bin/activate   # For macOS/Linux
-env\Scripts\activate      # For Windows
-
-3️⃣ pip install -r requirements.txt
-
-4️⃣ python manage.py migrate
-python manage.py runserver
-
